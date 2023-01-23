@@ -1,3 +1,7 @@
+==========
+Characters
+==========
+
 -q
 --quiet
 Only print error and warning messages; all other output will be suppressed.
